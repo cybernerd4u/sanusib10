@@ -64,12 +64,22 @@ const Achievement = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://drive.google.com/file/d/1k8V8c-C6z2kKCbTYJ1XlaTT_GP7InIcu/view" 
+                    href="https://drive.google.com/file/d/1k8V8c-C6z2kKCbTYJ1XlaTT_GP7InIcu/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
                   >
                     Stellar Cyber Certified Associate (SCCA)
+                  </a>
+                </li>
+                <li>
+                  <a 
+                    href="https://verify.skilljar.com/c/qtgrg9giaw4h" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-500 hover:underline"
+                  >
+                    SailPoint Identity Security Leader
                   </a>
                 </li>
               </ul>
@@ -252,12 +262,12 @@ const Achievement = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5EEBF529582FB15F221E764365E30333C06885B0E994EC32CD8A4EF8C886DFF8" 
+                    href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBF3ABAA868DCB97A2D13029C6B3ACDAFD895BEF34BDA4D42A3C3CBAA0FE540C" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
                   >
-                    Oracle Certified Generative AI Professional
+                    Oracle Certified AI Foundations Associate
                   </a>
                 </li>
                 <li>
@@ -294,8 +304,8 @@ const Achievement = () => {
         </div>
         <div className="mt-8 md:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="IT Enterprise Security"
-            subTitle="Security and Development Mastery"
+            title="General IT Training"
+            subTitle="IT Diverse Learning"
             result="Completed"
             des={
               <ul className="list-disc pl-5 space-y-2">
@@ -359,7 +369,7 @@ const Achievement = () => {
                     Foundations of Operationalizing MITRE ATT&CK
                   </a>
                 </li>
-                 <li>
+                <li>
                   <a 
                     href="https://badges.plus.columbia.edu/73a6d719-515e-4b18-8910-08f91a4b225d#acc.1hBCKX5I" 
                     target="_blank" 
@@ -369,7 +379,7 @@ const Achievement = () => {
                     Columbia+: Machine Learning 1
                   </a>
                 </li>
-                 <li>
+                <li>
                   <a 
                     href="https://www.credly.com/badges/1df6c6d3-8c79-40f3-99a1-b49497bc818" 
                     target="_blank" 
@@ -567,40 +577,10 @@ const Achievement = () => {
                     Coursera: IBM AI Product Manager 
                   </a>
                 </li>
-                <li>
-                  <a 
-                    href="https://www.coursera.org/programs/nitda-gen-ai-for-all-n27kb/professional-certificates/ibm-ai-product-manager" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline"
-                  >
-                    Coursera: IBM AI Product Manager 
-                  </a>
-                </li>
-                <li>
-                  <a 
-                    href="https://www.coursera.org/programs/nitda-gen-ai-for-all-n27kb/professional-certificates/ibm-ai-product-manager" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline"
-                  >
-                    Coursera: IBM AI Product Manager 
-                  </a>
-                </li>
-                <li>
-                  <a 
-                    href="https://www.coursera.org/programs/nitda-gen-ai-for-all-n27kb/professional-certificates/ibm-ai-product-manager" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline"
-                  >
-                    Coursera: IBM AI Product Manager 
-                  </a>
-                </li>
               </ul>
             }
-            />
-            <ResumeCard
+          />
+          <ResumeCard
             title="Professional Memberships"
             subTitle="Career and Research Institutes"
             result="Member"
@@ -608,42 +588,32 @@ const Achievement = () => {
               <ul className="list-disc pl-5 space-y-2">
                 <li>
                   <a 
-                    href="https://www.credly.com/badges/e0698545-4da4-43cd-b4bb-767f87504823" 
+                    href="https://drive.google.com/file/d/1UQXP-oUBvR6bLnjuQ02-Vricx0HfYMmT/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
                   >
-                    Certiprof: Digital Marketing Learner
+                    International Statistcal Engineering Association (ISEA)
                   </a>
                 </li>
                 <li>
                   <a 
-                    href="https://www.credly.com/badges/bef2b939-220b-415d-bcda-f25c62b84e64" 
+                    href="https://drive.google.com/file/d/1TNm0Ykf53XFvAvPwhKc3g6BCsM8ahvxO/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
                   >
-                    Certiprof: Business Agility Learner
+                    Institute for Educational Research and Publication (IFERP)
                   </a>
                 </li>
                 <li>
                   <a 
-                    href="https://www.coursera.org/programs/nitda-gen-ai-for-all-n27kb/professional-certificates/google-digital-marketing-ecommerce" 
+                    href="https://drive.google.com/file/d/1j24ek2RW_brYSLD20WekbEr9R0Krz-Nk/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
                   >
-                    Coursera: Google Digital Marketing & E-commerce
-                  </a>
-                </li>
-                <li>
-                  <a 
-                    href="https://www.coursera.org/programs/nitda-gen-ai-for-all-n27kb/professional-certificates/sap-business-analyst" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline"
-                  >
-                    Coursera: SAP Business Analyst
+                    The International Association of Engineers (IAENG)
                   </a>
                 </li>
               </ul>
