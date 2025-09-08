@@ -70,13 +70,13 @@ const Experience = () => {
       {/* Trainer Experience Section */}
       <div className="w-full md:w-1/2">
         <div className="flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2001 - 2020</p>
-          <h2 className="text-3xl md:text-4xl font-bold">Trainer Experience</h2>
+          <p className="text-sm text-designColor tracking-[4px]">2013 - 2025</p>
+          <h2 className="text-3xl md:text-4xl font-bold">Teaching Experience</h2>
         </div>
         <div className="mt-10 md:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Certification Trainer"
-            subTitle="Huawei Technologies Nigeria (2015 - 2020)"
+            subTitle="Huawei Technologies Nigeria (2023 - Present)"
             result="Nigeria"
             des={
               <ul className="list-disc pl-5 space-y-2 mt-2">
