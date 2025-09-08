@@ -143,7 +143,7 @@ const Achievement = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://drive.google.com/file/d/1RSeHvY_x8f7LJrTLiGORzJPfrbVH04iZ/view?usp=sharing" 
+                    href="https://www.credly.com/badges/1417b753-a8c7-4cfd-bd88-a4ddc669b688/linked_in_profile" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
@@ -282,7 +282,7 @@ const Achievement = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://www.credly.com/badges/c918d75b-ebec-4512-affd-724260182e27" 
+                    href="https://www.credly.com/badges/6f121768-c43b-4ce5-b317-6a31feabf65d/public_url" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline"
