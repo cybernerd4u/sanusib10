@@ -161,6 +161,16 @@ const Achievement = () => {
                     Microsoft Certified: Azure Fundamentals
                   </a>
                 </li>
+                <li>
+                  <a 
+                    href="https://www.credly.com/badges/df82ab2a-a381-4cdf-97bc-2ff4b2ab489e/public_url" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-500 hover:underline"
+                  >
+                    Aviatrix Certified Multicloud Network Associate
+                  </a>
+                </li>
               </ul>
             }
           />
