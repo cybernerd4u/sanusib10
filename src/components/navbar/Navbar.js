@@ -45,9 +45,9 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                  Highly analytical and detail-driven Data Analyst with over 6 years 
+                  of experience managing large-scale datasets, developing real-time 
+                  dashboards, and integrating third-party data sources.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
