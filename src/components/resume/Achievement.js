@@ -82,6 +82,16 @@ const Achievement = () => {
                     SailPoint Identity Security Leader
                   </a>
                 </li>
+                <li>
+                  <a 
+                    href="https://www.credly.com/badges/9983d57e-1bb7-4036-b43a-083f73003f31/public_url" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-500 hover:underline"
+                  >
+                     ISO/IEC 27001:2022 Lead Auditor
+                  </a>
+                </li>
               </ul>
             }
           />
