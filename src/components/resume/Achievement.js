@@ -12,7 +12,7 @@ const Achievement = () => {
       {/* Professional Certifications and Awards */}
       <div className="w-full md:w-1/2">
         <div className="py-6 md:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2020 - 2023</p>
+          <p className="text-sm text-designColor tracking-[4px]">2022 - 2025</p>
           <h2 className="text-3xl md:text-4xl font-bold">Professional Certifications and Awards</h2>
         </div>
         <div className="mt-8 md:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
@@ -192,6 +192,16 @@ const Achievement = () => {
               <ul className="list-disc pl-5 space-y-2">
                 <li>
                   <a 
+                    href="https://www.credly.com/badges/68cdeb01-b2e6-40fb-9d68-c79ec4975c9e/public_url" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-500 hover:underline"
+                  >
+                    Google Cloud Certified - Professional Machine Learning Engineer
+                  </a>
+                </li>
+                <li>
+                  <a 
                     href="https://www.datacamp.com/certificate/AEDS0017874969038" 
                     target="_blank" 
                     rel="noopener noreferrer"
@@ -319,7 +329,7 @@ const Achievement = () => {
       {/* Trainings and Workshops */}
       <div className="w-full md:w-1/2">
         <div className="py-6 md:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2019 - 2023</p>
+          <p className="text-sm text-designColor tracking-[4px]">2020 - 2025</p>
           <h2 className="text-3xl md:text-4xl font-bold">Trainings and Online Courses</h2>
         </div>
         <div className="mt-8 md:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
